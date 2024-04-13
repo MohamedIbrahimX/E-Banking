@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E-Banking">
+    <listeners>
+        <listener class-name="Utilites.Reporting"></listener>
+    </listeners>
+    <test thread-count="5" name="E-Banking">
+        <parameter name="Browser" value="Chrome"></parameter>
+        <classes>
+            <class name="TestCases.TC_LoginTest_001"/>
+            <class name="TestCases.TC_LoginDDT_002"/>
+           <class name="TestCases.TC_AddCustomerTest_003"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

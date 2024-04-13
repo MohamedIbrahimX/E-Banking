@@ -1,0 +1,15 @@
+DEBUG main freemarker.cache - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
